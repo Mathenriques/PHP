@@ -1,0 +1,4 @@
+vendor
+testes-executados.txt
+.phpunit.result.cache
+testdox.txt
